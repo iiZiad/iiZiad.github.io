@@ -63,6 +63,12 @@ header {
     display :flex;
     justify-content : center;
 }
+.f2 i{
+    transition : 0.3s;
+}
+.f2 i:hover {
+    color : rgb(81, 151, 222);
+}
 .f3 {
     color : rgb(171, 171, 171);
     width : 30%;
